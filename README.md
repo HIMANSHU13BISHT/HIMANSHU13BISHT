@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @HIMANSHU13BISHT
+- 👋 Hi, I’m @HIMANSHU_BISHT
 - 👀 I’m interested in to running things as i want.
-- 🌱 I’m currently learning c++ language.
+- 🌱 I have learned DSA in c++ language.
+- ⭐ I have learned Full-stack Web Development.
 - 💞️ I’m looking to collaborate on google. 
 - 📫 How to reach me ...
 
 <!---
-HIMANSHU13BISHT/HIMANSHU13BISHT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HIMANSHU_BISHT/HIMANSHU_BISHT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
