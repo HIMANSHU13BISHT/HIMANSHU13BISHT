@@ -2,7 +2,7 @@
 - 👀 I’m interested in to running things as i want.
 - 🌱 I have learned DSA in c++ language.
 - ⭐ I have learned Full-stack Web Development.
-- 💞️ I’m looking to collaborate on google. 
+- 💞️ I’m looking to collaboratewith Tech stars. 
 - 📫 How to reach me ...
 
 <!---
